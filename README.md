@@ -2,7 +2,7 @@ My apologies for the oversight. Here's a corrected README for your article summa
 
 # Article Summarizer with RapidAPI
 
-![Project Logo](insert_project_logo_url_here)
+
 
 ## Overview
 
@@ -44,8 +44,8 @@ This repository contains an article summarizer web application built using React
 
 4. Create a `.env` file in the project root and add your RapidAPI API Key:
 
-   ```env
-  VITE_RAPID_API_ARTICLE_KEY=your-api-key-here
+   ``` bash
+     VITE_RAPID_API_ARTICLE_KEY=your-api-key-here
    ```
 
 ## Usage
