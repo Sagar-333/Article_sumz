@@ -1,4 +1,3 @@
-My apologies for the oversight. Here's a corrected README for your article summarizer using RapidAPI with React and JavaScript:
 
 # Article Summarizer with RapidAPI
 
