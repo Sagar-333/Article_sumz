@@ -62,14 +62,5 @@ This repository contains an article summarizer web application built using React
 
 4. Click the "Summarize" button, and the tool will generate a summary of the article for you.
 
-## Contributing
 
-Contributions are welcome! Please refer to the [Contributing Guidelines](CONTRIBUTING.md) for more details.
-
-## License
-
-This project is licensed under the MIT License. For details, see the [LICENSE](LICENSE) file.
-
----
-
-Enjoy using the Article Summarizer with RapidAPI! If you encounter any issues or have suggestions for improvements, please feel free to [open an issue](https://github.com/your-username/article-summarizer-react/issues).
+Enjoy using the Article Summarizer with RapidAPI! If you encounter any issues or have suggestions for improvements, please feel free to [open an issue](https://github.com/Sagar-333/Article_sumz/issues).
